@@ -1,0 +1,5 @@
+[tools]
+1password = "latest"
+node = "24.0.2"
+qdns = "latest"
+ruby = "3.3.7"
